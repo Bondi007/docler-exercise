@@ -13,10 +13,6 @@ The following applications are installed:
 * Selenium
 * Chrome
 
-Download Chromedriver from https://sites.google.com/a/chromium.org/chromedriver/downloads
-
-Copy Chromedriver.exe to "com.duodecadits.uitest" (root folder of the project).
-
 ### Traceability Matrix
 
 Please find the Requirements Traceability Matrix in the root folder beside README.MD: *Traceability_Matrix_Docler.xlsx*
