@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DoclerTestSuite" duration-ms="29305" started-at="2017-08-30T19:35:04Z" finished-at="2017-08-30T19:35:33Z">
+    <groups>
+    </groups>
+    <test name="TestCase1" duration-ms="19495" started-at="2017-08-30T19:35:04Z" finished-at="2017-08-30T19:35:23Z">
+      <class name="testngtestcases.TestNGTestCase1">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:testngtestcases.TestNGTestCase1@31ef45e3]" name="initializeBrowser" is-config="true" duration-ms="14433" started-at="2017-08-30T21:35:04Z" finished-at="2017-08-30T21:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CheckTitleAndLogo()[pri:0, instance:testngtestcases.TestNGTestCase1@31ef45e3]" name="CheckTitleAndLogo" duration-ms="4439" started-at="2017-08-30T21:35:18Z" description="TC1 - Check title and company logo on each site" finished-at="2017-08-30T21:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTitleAndLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngtestcases.TestNGTestCase1@31ef45e3]" name="tearDown" is-config="true" duration-ms="565" started-at="2017-08-30T21:35:23Z" finished-at="2017-08-30T21:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngtestcases.TestNGTestCase1 -->
+    </test> <!-- TestCase1 -->
+    <test name="TestCase2" duration-ms="20171" started-at="2017-08-30T19:35:04Z" finished-at="2017-08-30T19:35:24Z">
+      <class name="testngtestcases.TestNGTestCase2">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:testngtestcases.TestNGTestCase2@72d818d1]" name="initializeBrowser" is-config="true" duration-ms="14433" started-at="2017-08-30T21:35:04Z" finished-at="2017-08-30T21:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="TestFormPageSubmit()[pri:0, instance:testngtestcases.TestNGTestCase2@72d818d1]" name="TestFormPageSubmit" duration-ms="5092" started-at="2017-08-30T21:35:18Z" description="TC2 - Test Form Page - test form with 3 different names" finished-at="2017-08-30T21:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFormPageSubmit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngtestcases.TestNGTestCase2@72d818d1]" name="tearDown" is-config="true" duration-ms="592" started-at="2017-08-30T21:35:23Z" finished-at="2017-08-30T21:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngtestcases.TestNGTestCase2 -->
+    </test> <!-- TestCase2 -->
+    <test name="TestCase3" duration-ms="4522" started-at="2017-08-30T19:35:23Z" finished-at="2017-08-30T19:35:28Z">
+      <class name="testngtestcases.TestNGTestCase3">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:testngtestcases.TestNGTestCase3@4566e5bd]" name="initializeBrowser" is-config="true" duration-ms="1327" started-at="2017-08-30T21:35:23Z" finished-at="2017-08-30T21:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CheckFormPage()[pri:0, instance:testngtestcases.TestNGTestCase3@4566e5bd]" name="CheckFormPage" duration-ms="2631" started-at="2017-08-30T21:35:25Z" description="Test Form Page - check if form menu is active and the input box and submit button are displayed" finished-at="2017-08-30T21:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFormPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngtestcases.TestNGTestCase3@4566e5bd]" name="tearDown" is-config="true" duration-ms="560" started-at="2017-08-30T21:35:27Z" finished-at="2017-08-30T21:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngtestcases.TestNGTestCase3 -->
+    </test> <!-- TestCase3 -->
+    <test name="TestCase4" duration-ms="4431" started-at="2017-08-30T19:35:24Z" finished-at="2017-08-30T19:35:28Z">
+      <class name="testngtestcases.TestNGTestCase4">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:testngtestcases.TestNGTestCase4@73846619]" name="initializeBrowser" is-config="true" duration-ms="1446" started-at="2017-08-30T21:35:24Z" finished-at="2017-08-30T21:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CheckHomePageTexts()[pri:0, instance:testngtestcases.TestNGTestCase4@73846619]" name="CheckHomePageTexts" duration-ms="2420" started-at="2017-08-30T21:35:25Z" description="TC4 - Test Home Page - check header, paragraph, URL" finished-at="2017-08-30T21:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHomePageTexts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngtestcases.TestNGTestCase4@73846619]" name="tearDown" is-config="true" duration-ms="562" started-at="2017-08-30T21:35:28Z" finished-at="2017-08-30T21:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngtestcases.TestNGTestCase4 -->
+    </test> <!-- TestCase4 -->
+    <test name="TestCase5" duration-ms="4716" started-at="2017-08-30T19:35:28Z" finished-at="2017-08-30T19:35:33Z">
+      <class name="testngtestcases.TestNGTestCase5">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:testngtestcases.TestNGTestCase5@20322d26]" name="initializeBrowser" is-config="true" duration-ms="1373" started-at="2017-08-30T21:35:28Z" finished-at="2017-08-30T21:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CheckErrorPage()[pri:0, instance:testngtestcases.TestNGTestCase5@20322d26]" name="CheckErrorPage" duration-ms="2774" started-at="2017-08-30T21:35:29Z" description="TC5 - Test Error Page - check if the user gets Error 404" finished-at="2017-08-30T21:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckErrorPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngtestcases.TestNGTestCase5@20322d26]" name="tearDown" is-config="true" duration-ms="566" started-at="2017-08-30T21:35:32Z" finished-at="2017-08-30T21:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngtestcases.TestNGTestCase5 -->
+    </test> <!-- TestCase5 -->
+    <test name="TestCase6" duration-ms="4688" started-at="2017-08-30T19:35:28Z" finished-at="2017-08-30T19:35:33Z">
+      <class name="testngtestcases.TestNGTestCase6">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:testngtestcases.TestNGTestCase6@6e1ec318]" name="initializeBrowser" is-config="true" duration-ms="1580" started-at="2017-08-30T21:35:28Z" finished-at="2017-08-30T21:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CheckUITestingPage()[pri:0, instance:testngtestcases.TestNGTestCase6@6e1ec318]" name="CheckUITestingPage" duration-ms="2544" started-at="2017-08-30T21:35:30Z" description="TC6 - Test UI Testing Page - check if the user is navigated to Home Page" finished-at="2017-08-30T21:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckUITestingPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testngtestcases.TestNGTestCase6@6e1ec318]" name="tearDown" is-config="true" duration-ms="560" started-at="2017-08-30T21:35:32Z" finished-at="2017-08-30T21:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngtestcases.TestNGTestCase6 -->
+    </test> <!-- TestCase6 -->
+  </suite> <!-- DoclerTestSuite -->
+</testng-results>
