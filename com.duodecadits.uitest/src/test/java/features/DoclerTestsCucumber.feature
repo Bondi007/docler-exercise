@@ -35,11 +35,12 @@ Feature: Automated UI testing of http://uitest.duodecadits.com
  Then The user is navigated to the Home page
  And The user leaves the website
     
-    Scenario: CTC5 - Test Error Page
+    Scenario: CTC5 - Test Error Page - Check Error message and title
  Given The user opens the website
  When The user clicks on Error button in the upper Menu
  Then The user is navigated to the Error page
  And The user gets Error File not found message
+ And Page title is UI Testing Site
  And The user leaves the website
  
  Scenario: CTC6 - Test Home Page - Check if Home menu turns to active status
