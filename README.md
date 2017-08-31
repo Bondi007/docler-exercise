@@ -67,13 +67,13 @@ src/test/java/testngtestcases package -> TestNGTestCase6.java
 * Run **TestNGsuite.xml** with TestNG
 
 
-#### Running the tests - multiple thread:
+#### Running the tests - multiple threads:
 
 * Open **TestNGsuite.xml**
 * Change the value of "parallel" attribute to the number of thread you want to execute with
 * Run **TestNGsuite.xml** with TestNG
 
-(Note: You can change the verbosity by modifying "verbose" attribute in TestNGsuite.xml. "1" is less verbose, "10" is debug log level)
+*(Note: You can change the verbosity by modifying "verbose" attribute in TestNGsuite.xml. "1" is less verbose, "10" is debug log level)*
 
 
 #### Execution log (HTML format) is located here: 
